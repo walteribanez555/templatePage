@@ -192,4 +192,8 @@
         font-size: small;
     }
 
+    .navbar .logo  a img { 
+        width: 100px;
+    }
+
   }
