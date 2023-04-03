@@ -52,6 +52,8 @@
     font-weight: bold;
   }
 
+  
+
   .navbar .routes { 
     display: flex;
     gap: 2rem;
@@ -86,7 +88,7 @@
     color: white;
     cursor: pointer;
     font-size: 1em;
-    padding: 5px 70px;
+    padding: 5px ;
     text-align: center;
     text-decoration: none;
     transition: background 0.2s ease-in-out;
@@ -183,6 +185,11 @@
 
     .dropdown_menu{
 
+    }
+
+    .cotizar_btn {
+        width: 80px;
+        font-size: small;
     }
 
   }
